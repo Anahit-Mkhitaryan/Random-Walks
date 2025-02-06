@@ -1,4 +1,4 @@
-#Random Walks
+#Random Walks 
 Overview
 This repository contains two comprehensive papers on the topic of random walks, exploring their theoretical foundations and boundary behaviors.
 
